@@ -10,7 +10,7 @@ This Banking system consists of the following Services  Account, Transfer, Appoi
 Admin-Portal is mainly used by Admin and it involves User Account and Appointment Service.
 
 
-UML diagram
+UML Class diagram
 
 ![er diagram](https://user-images.githubusercontent.com/34470526/37703339-8e85fcae-2d1f-11e8-900f-94cb2046d97f.png)
 
