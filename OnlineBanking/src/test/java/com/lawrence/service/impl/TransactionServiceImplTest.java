@@ -200,7 +200,7 @@ public class TransactionServiceImplTest {
 
 		SavingsTransaction savingsTransaction = new SavingsTransaction();
 
-		Mockito.when(savingsTransactionRepository.save(Mockito.any())).thenReturn(new RuntimeException());
+		Mockito.when(savingsTransactionRepository.save(Mockito.any())).thenReturn(savingsTransaction);
 
 		transactionServiceImpl.saveSavingsWithdrawTransaction(savingsTransaction);
 	}
