@@ -9,6 +9,8 @@ It was made using Spring Boot, Spring Security, Spring Data JPA, Spring Data RES
 This Banking system consists of the following Services  Account, Transfer, Appointment and Transaction. 
 Admin-Portal is mainly used by Admin and it involves User Account and Appointment Service.
 
+The View was removed for personal reasons. This Project can be run and tested using JUnit Test Caeses
+
 
 UML Class diagram
 
